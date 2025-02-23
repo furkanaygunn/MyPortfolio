@@ -47,7 +47,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://i.hizliresim.com/8z6c4lw.png?_gl=1*zjw3nv*_ga*NTAxMDA1MTA4LjE3MzQwOTQ5NTU.*_ga_M9ZRXYS2YN*MTc0MDMyMjY4MS4zLjEuMTc0MDMyMzM3Ny43LjAuMA.."  />
+  ![Image](https://github.com/user-attachments/assets/df89d41c-45f7-4781-bbf3-4c53e2291cfa)
 </div>
 
 ###
