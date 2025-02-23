@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  ![UI 1](https://i.hizliresim.com/ms1x4aj.png?_gl=1*1mwo8qy*_ga*NTEyMjE1MDI4LjE3NDAzMjM0OTg.*_ga_M9ZRXYS2YN*MTc0MDM0NjI0OC4yLjEuMTc0MDM0NjI3My4zNS4wLjA.)
+  ![UI 1](https://i.hizliresim.com/ms1x4aj.png?_gl=1*1mwo8qy*_ga*NTEyMjE1MDI4LjE3NDAzMjM0OTg.*_ga_M9ZRXYS2YN*MTc0MDM0NjI0OC4yLjEuMTc0MDM0NjI3My4zNS4wLjA)
 </div>
 
 ###
