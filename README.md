@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  ![UI 1](proje-images/1.png)
+  ![UI 1](MyPortfolio/proje-images/1.png)
 </div>
 
 ###
