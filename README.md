@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://i.hizliresim.com/meu2s85.png?_gl=1*cnj96m*_ga*NTAxMDA1MTA4LjE3MzQwOTQ5NTU.*_ga_M9ZRXYS2YN*MTc0MDMyMjY4MS4zLjEuMTc0MDMyMjgyOS41OC4wLjA."  />
+  ![alt text](https://github.com/[furkanaygunn]/[MyPortfolio]/blob/[branch]/1.jpg?raw=true)
 </div>
 
 ###
