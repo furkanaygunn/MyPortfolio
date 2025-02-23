@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://i.hizliresim.com/g0f5s69.png?_gl=1*ps0e9q*_ga*NTAxMDA1MTA4LjE3MzQwOTQ5NTU.*_ga_M9ZRXYS2YN*MTc0MDMyMjY4MS4zLjEuMTc0MDMyMzA1Mi41MC4wLjA."  />
+  ![Resmin Açıklaması](https://github.com/furkanaygunn/MyPortfolio/raw/main/proje-images/1.png)
 </div>
 
 ###
