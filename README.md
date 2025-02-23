@@ -26,9 +26,7 @@
 
 ###
 
-<div align="center">
-  [![alt text]([https://github.com/[furkanaygunn]/[MyPortfolio]/blob/[branch]/1.jpg?raw=true](proje-images/1.png)
-</div>
+  ![alt text](https://github.com/furkanaygunn/MyPortfolio/blob/f6015ab9faf41610ac1625eb2bd1e26bb6a2e4bb/proje-images/2.png)
 
 ###
 
@@ -36,9 +34,7 @@
 
 ###
 
-<div align="center">
-  ![UI 1](MyPortfolio/proje-images/1.png)
-</div>
+![alt text](https://github.com/furkanaygunn/MyPortfolio/blob/6901efb2e9a73882f436ece01490f9dd28c9e86e/proje-images/1.png)
 
 ###
 
@@ -46,9 +42,7 @@
 
 ###
 
-<div align="center">
-  ![Image](https://github.com/user-attachments/assets/df89d41c-45f7-4781-bbf3-4c53e2291cfa)
-</div>
+![alt text](https://github.com/furkanaygunn/MyPortfolio/blob/6901efb2e9a73882f436ece01490f9dd28c9e86e/proje-images/3.png)
 
 ###
 
@@ -56,22 +50,14 @@
 
 ###
 
-<div align="center">
-  <img height="500" src="https://i.hizliresim.com/2x57e3i.png?_gl=1*zj4i0e*_ga*NTEyMjE1MDI4LjE3NDAzMjM0OTg.*_ga_M9ZRXYS2YN*MTc0MDMyMzQ5Ny4xLjEuMTc0MDMyMzUyMC4zNy4wLjA."  />
-</div>
+![alt text](https://github.com/furkanaygunn/MyPortfolio/blob/6901efb2e9a73882f436ece01490f9dd28c9e86e/proje-images/4.png)
 
 ###
 
-<div align="center">
-  <img height="500" src="https://i.hizliresim.com/5xlb5mm.png?_gl=1*mn4p3c*_ga*NTEyMjE1MDI4LjE3NDAzMjM0OTg.*_ga_M9ZRXYS2YN*MTc0MDMyMzQ5Ny4xLjEuMTc0MDMyMzYxOS4zNy4wLjA."  />
-</div>
+![alt text](https://github.com/furkanaygunn/MyPortfolio/blob/6901efb2e9a73882f436ece01490f9dd28c9e86e/proje-images/5.png)
 
 ###
 
-<div align="center">
-  <img height="500" src="https://i.hizliresim.com/hnvj76m.png?_gl=1*1d14746*_ga*NTEyMjE1MDI4LjE3NDAzMjM0OTg.*_ga_M9ZRXYS2YN*MTc0MDMyMzQ5Ny4xLjEuMTc0MDMyMzY4Ny41MC4wLjA."  />
-</div>
+![alt text](https://github.com/furkanaygunn/MyPortfolio/blob/6901efb2e9a73882f436ece01490f9dd28c9e86e/proje-images/6.png)
 
 ###
-
-[![alt text](https://github.com/furkanaygunn/MyPortfolio/blob/6901efb2e9a73882f436ece01490f9dd28c9e86e/proje-images/1.png)
