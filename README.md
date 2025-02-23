@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  [![alt text]([https://github.com/[furkanaygunn]/[MyPortfolio]/blob/[branch]/1.jpg?raw=true](https://github.com/furkanaygunn/MyPortfolio/blob/6901efb2e9a73882f436ece01490f9dd28c9e86e/proje-images/1.png))](https://github.com/furkanaygunn/MyPortfolio/blob/6901efb2e9a73882f436ece01490f9dd28c9e86e/proje-images/1.png)
+  [![alt text]([https://github.com/[furkanaygunn]/[MyPortfolio]/blob/[branch]/1.jpg?raw=true](proje-images/1.png)
 </div>
 
 ###
