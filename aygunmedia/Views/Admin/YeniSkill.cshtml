@@ -1,0 +1,17 @@
+﻿@model aygunmedia.Models.Siniflar.Skill
+@{
+    ViewBag.Title = "YeniSkill";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Yeni Skill Ekle</h2>
+<br />
+<form class="form-group" method="post">
+    @Html.LabelFor(x => x.yetenekAd)
+    @Html.TextBoxFor(x => x.yetenekAd, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.yuzde)
+    @Html.TextBoxFor(x => x.yuzde, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-success">Skill Ekle</button>
+</form>

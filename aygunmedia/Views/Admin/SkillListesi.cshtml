@@ -1,0 +1,25 @@
+﻿@using aygunmedia.Models.Siniflar
+@model List<Skill>
+@{
+    ViewBag.Title = "SkillListesi";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<h2 class="mb-4">Skill Sayfası</h2>
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Skill</th>
+        <th>Güncelle</th>
+        <th>Sil</th>
+    </tr>
+    @foreach (var x in Model)
+    {
+        <tr>
+            <td>@x.Id</td>
+            <td>@x.yetenekAd</td>
+            <td><a href="/Admin/SkillGetir/@x.Id" class="btn btn-primary">Güncelle</a></td>
+            <td><a href="/Admin/SkillSil/@x.Id" class="btn btn-danger">Sil</a></td>
+        </tr>
+    }
+</table>
+<a href="/Admin/YeniSkill/" class="btn btn-primary">Yeni Skill Ekle</a>

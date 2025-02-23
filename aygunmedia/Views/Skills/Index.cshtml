@@ -1,0 +1,50 @@
+﻿@model List<aygunmedia.Models.Siniflar.Skill>
+
+<div class="container">
+    <h2>Yetenekler</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Yetenek</th>
+                <th>Yüzde</th>
+                <th>Güncelle</th>
+                <th>Sil</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var skill in Model) // Model'den yetenekleri al
+            {
+                <tr>
+                    <td>@skill.Id</td>
+                    <td>@skill.yetenekAd</td>
+                    <td>@skill.yuzde</td>
+                    <td>
+                        <form method="post" action="@Url.Action("Update", "Skills")">
+                            <input type="hidden" name="Id" value="@skill.Id" />
+                            <input type="text" name="yetenekAd" value="@skill.yetenekAd" required />
+                            <input type="number" name="yuzde" value="@skill.yuzde" min="0" max="100" required />
+                            <button type="submit" class="btn btn-primary">Güncelle</button>
+                        </form>
+                    </td>
+                    <td>
+                        <form method="post" action="@Url.Action("Delete", "Skills")">
+                            <input type="hidden" name="id" value="@skill.Id" />
+                            <button type="submit" class="btn btn-danger">Sil</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h3>Yeni Yetenek Ekle</h3>
+    <form method="post" action="@Url.Action("Add", "Skills")">
+        <input type="text" name="yetenekAd" placeholder="Yetenek Adı" required />
+        <input type="number" name="yuzde" placeholder="Yüzde" min="0" max="100" required />
+        <button type="submit" class="btn btn-success">Ekle</button>
+    </form>
+</div>
+<div class="w3-container">
+    @Html.Action("Index", "Skills") // Skills controller'ının Index action'ını çağır
+</div>

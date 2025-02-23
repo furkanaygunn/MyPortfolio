@@ -1,0 +1,9 @@
+﻿@using aygunmedia.Models.Siniflar
+@model List<ikonlar>
+
+<div class="social">
+    @foreach (var x in Model)
+    {
+        <a target="_blank" href="@x.link"><i class="@x.ikon"></i></a>
+    }
+</div>

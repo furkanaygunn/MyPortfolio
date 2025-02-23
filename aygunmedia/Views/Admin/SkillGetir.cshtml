@@ -1,0 +1,20 @@
+﻿@model aygunmedia.Models.Siniflar.Skill
+@{
+    ViewBag.Title = "SkillGetir";
+}
+
+<h2>Skill Güncelle</h2>
+<br />
+@using (Html.BeginForm("SkillGuncelle", "Admin", FormMethod.Post))
+{
+    @Html.LabelFor(x => x.Id)
+    @Html.TextBoxFor(x => x.Id, new { @class = "form-control", @readonly = "readonly" })
+    <br />
+    @Html.LabelFor(x => x.yetenekAd)
+    @Html.TextBoxFor(x => x.yetenekAd, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.yuzde)
+    @Html.TextBoxFor(x => x.yuzde, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-success">Skill Güncelle</button>
+}
